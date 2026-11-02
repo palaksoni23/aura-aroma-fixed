@@ -1,0 +1,6 @@
+{
+  "name": "AURA & AROMA | Luxury Cafe, Bistro & Fine Dining",
+  "description": "Where Flavours Meet Feelings. Experience artisanal single-origin brews, French-Indian patisserie, and starlit rooftop dining in Alwar, Rajasthan. Designed by Palak Soni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
